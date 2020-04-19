@@ -1,0 +1,19 @@
+{
+  "name": "@ocrah/react-material-starter",
+  "version": "1.0.0",
+  "description": "Starter template for a project using react and material-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ocrah/npm-modules.git"
+  },
+  "author": "Ocrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ocrah/npm-modules/issues"
+  },
+  "homepage": "https://github.com/Ocrah/npm-modules#readme"
+}
