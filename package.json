@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ocrah/npm-modules.git"
+    "url": "git+https://github.com/Ocrah/react-material-starter.git"
   },
   "author": "Ocrah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ocrah/npm-modules/issues"
+    "url": "https://github.com/Ocrah/react-material-starter/issues"
   },
-  "homepage": "https://github.com/Ocrah/npm-modules#readme"
+  "homepage": "https://github.com/Ocrah/react-material-starter#readme"
 }

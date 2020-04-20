@@ -1,8 +1,43 @@
-# godzilla
+<h1 align="center">Welcome to React Material Starter 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/Ocrah/react-material-starter#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="TBD" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
-1. To create a <b>package.json</b> file, on the command line, in the root directory of your Node.js module, run `npm init`:
-   - For our npm modules run `npm init --scope=@ocrah`
-2. Provide responses for the required fields (<b>name</b> and <b>version</b>), as well as the <b>main</b> field:
-   - `name`: The name of your module (react-material-starter)
-   - `version`: The initial module version. We recommend following [semantic versioning](https://docs.npmjs.com/about-semantic-versioning) guidelines and starting with 1.0.0.
-   - `main`: The name of the file that will be loaded when your module is required by another application. The default name is index.js.
+> Starter template for a project using React and Material-UI
+
+### 🏠 [Homepage](https://github.com/Ocrah/react-material-starter)
+
+## Install
+
+```sh
+npm install
+```
+
+## Author
+
+👤 **Ocrah**
+
+* Website: https://ocrah.com
+* Github: [@ocrah](https://github.com/ocrah)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Ocrah/react-material-starter/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Ocrah](https://github.com/ocrah).<br />
+This project is [ISC](TBD) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
