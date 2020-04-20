@@ -11,8 +11,6 @@
 
 > Starter template for a project using React and Material-UI
 
-### 🏠 [Homepage](https://github.com/Ocrah/react-material-starter)
-
 ## Install
 
 ```sh
@@ -21,12 +19,12 @@ npm install
 
 ## Author
 
-👤 **Ocrah**
+**Ocrah**
 
 * Website: https://ocrah.com
 * Github: [@ocrah](https://github.com/ocrah)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Ocrah/react-material-starter/issues). 
 
@@ -34,10 +32,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
+## License
 
 Copyright © 2020 [Ocrah](https://github.com/ocrah).<br />
 This project is [ISC](TBD) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
