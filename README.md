@@ -35,4 +35,4 @@ Give a ⭐️ if this project helped you!
 ## License
 
 Copyright © 2020 [Ocrah](https://github.com/ocrah).<br />
-This project is [ISC](TBD) licensed.
+This project is [MIT](https://github.com/ocrah/react-material-starter/blob/develop/LICENSE) licensed.
